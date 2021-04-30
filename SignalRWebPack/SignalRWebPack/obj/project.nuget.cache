@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKVoeDsf8GDm51dvsBpPFXs1Gqk8k2d3siZ8GTxpyB6bJUP+NfOsZl8aEA5o7b4ZgzV5o023jrLiW1mKPM+wSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\SignalRWebPack\\SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.typescript.msbuild\\4.2.3\\microsoft.typescript.msbuild.4.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
